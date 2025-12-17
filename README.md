@@ -15,3 +15,15 @@ A modern todo list application built with HTML, CSS, and JavaScript.
 - `index.html` - Main HTML file
 - `styles.css` - Styling
 - `script.js` - Application logic
+
+# Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Cursor (AI coding tool)
+
+# How to Run
+
+- Download or clone the repository.
+- Open the index.html file in a web browser.
