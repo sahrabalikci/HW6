@@ -1,6 +1,7 @@
-# Todo List App
+# To do List App
 
-A modern todo list application built with HTML, CSS, and JavaScript.
+A to do list application built with HTML, CSS, and JavaScript.
+This project was built with the help of the Cursor AI vibe coding tool.
 
 ## Features
 
@@ -29,5 +30,5 @@ A modern todo list application built with HTML, CSS, and JavaScript.
 
 # How to Run
 
-- Download or clone the repository.
-- Open the index.html file in a web browser.
+1. Download or clone the repository.
+2. Open the index.html file in a web browser.
