@@ -1,4 +1,5 @@
 ANALYSIS PART #1
+
 Cursor
 Company: Anysphere
 What it does: a Vibe Coding tool similar to VS Code. It provides code suggestions, can write code, and helps fix errors.
@@ -30,6 +31,7 @@ Pricing: Free and paid plans
 Supported Languages: JavaScript, TypeScript, HTML/CSS, React, Vue, Svelte
 
 ANALYSIS PART #2
+
 Just like in every area of our lives, artificial intelligence tools have become more popular in the field of programming day by day. Vibe coding tools such as Cursor, Windsurf, Replit Agent, v0.dev and Bolt.new have become an important part of coding today. These tools are also quite different from normal code completion, GitHub Copilot and using ChatGPT separately.
 
 Normal code completion helps us complete the code we write in the IDE. It gives small suggestions while we are typing. However, it doesn’t fully understand what we want to do because it focuses only on the word we write. For example, when we type a function name, it suggests the rest of the code automatically. Vibe coding tools are very different from this. You clearly write what you want to do, and the tool creates the code and files for you. For example, when you write that you want to build a to-do list website in Cursor, it can create basic files like index.html, style.css and script.js. It thinks about the whole project, not only single words.
