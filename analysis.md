@@ -10,6 +10,7 @@ Pricing: Free and paid plans
 
 Supported Languages: Python, JavaScript, Java, C++, Rust, TypeScript, HTML, CSS
 
+
 Windsurf
 
 Company: Codeium
@@ -19,6 +20,7 @@ What it does: an AI-powered IDE that helps writing code and gives project sugges
 Pricing: Free and paid plans
 
 Supported Languages: JavaScript, Java, C#, Go, and 70+ programming languages
+
 
 Replit Agent
 
@@ -30,6 +32,7 @@ Pricing: Free and paid options
 
 Supported Languages: Python, JavaScript, HTML/CSS, Java, Ruby, Go
 
+
 v0.dev
 
 Company: Vercel
@@ -40,6 +43,7 @@ Pricing: Free and paid plans
 
 Supported Languages: JavaScript, React, JSX, Tailwind CSS
 
+
 Bolt.new
 
 Company: StackBlitz
@@ -49,6 +53,7 @@ What it does: A browser-based AI-powered tool that can create complete web appli
 Pricing: Free and paid plans
 
 Supported Languages: JavaScript, TypeScript, HTML/CSS, React, Vue, Svelte
+
 
 ANALYSIS PART #2
 
