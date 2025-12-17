@@ -11,10 +11,6 @@ This project was built with the help of the Cursor AI vibe coding tool.
 - LocalStorage persistence (tasks survive page refresh)
 - Responsive design
 
-## Screenshot
-
-![Todo List Application](screenshot.png)
-
 ## Files
 
 - `index.html` - Main HTML file
@@ -32,3 +28,7 @@ This project was built with the help of the Cursor AI vibe coding tool.
 
 1. Download or clone the repository.
 2. Open the index.html file in a web browser.
+
+## Screenshot
+
+![Todo List App](screenshot.png)
