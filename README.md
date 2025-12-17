@@ -10,6 +10,10 @@ A modern todo list application built with HTML, CSS, and JavaScript.
 - LocalStorage persistence (tasks survive page refresh)
 - Responsive design
 
+## Screenshot
+
+![Todo List Application](screenshot.png)
+
 ## Files
 
 - `index.html` - Main HTML file
