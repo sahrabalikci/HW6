@@ -1,33 +1,53 @@
 ANALYSIS PART #1
 
 Cursor
+
 Company: Anysphere
+
 What it does: a Vibe Coding tool similar to VS Code. It provides code suggestions, can write code, and helps fix errors.
+
 Pricing: Free and paid plans
+
 Supported Languages: Python, JavaScript, Java, C++, Rust, TypeScript, HTML, CSS
 
 Windsurf
+
 Company: Codeium
+
 What it does: an AI-powered IDE that helps writing code and gives project suggestions.
+
 Pricing: Free and paid plans
+
 Supported Languages: JavaScript, Java, C#, Go, and 70+ programming languages
 
 Replit Agent
+
 Company: Replit Inc.
+
 What it does: a browser-based AI coding tool that creates projects from user prompts and prepares code and file.
+
 Pricing: Free and paid options
+
 Supported Languages: Python, JavaScript, HTML/CSS, Java, Ruby, Go
 
 v0.dev
+
 Company: Vercel
+
 What it does: an AI tool that creates web UI code and frontend components
+
 Pricing: Free and paid plans
+
 Supported Languages: JavaScript, React, JSX, Tailwind CSS
 
 Bolt.new
+
 Company: StackBlitz
+
 What it does: A browser-based AI-powered tool that can create complete web applications.
+
 Pricing: Free and paid plans
+
 Supported Languages: JavaScript, TypeScript, HTML/CSS, React, Vue, Svelte
 
 ANALYSIS PART #2
