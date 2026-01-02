@@ -32,3 +32,11 @@ This project was built with the help of the Cursor AI vibe coding tool.
 ## Screenshot
 
 ![Todo List App](screenshot.png)
+
+## Docker Setup
+
+### Build Docker Image
+```bash
+docker build -t todo-app .
+docker run -p 8080:80 todo-app
+
